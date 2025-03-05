@@ -18,4 +18,5 @@ Provide users the ability to custom-specify what format of data they want vizual
 ![addsys](https://github.com/user-attachments/assets/173380db-fa65-439f-a923-e0afcf6feef0)
 
 
-![gen-diag](https://github.com/user-attachments/assets/42647f87-d36b-4bd3-9ef6-033e2320f1ab)
+
+![net-add](https://github.com/user-attachments/assets/891dafdc-3e3c-449f-a075-84ffe8e998b1)
