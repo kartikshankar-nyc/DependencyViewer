@@ -11,7 +11,7 @@ Fix basic bugs - not showing multiple systems.
 Also check out Cytoscape.js and experiment with different examples.
 
 Coming up: 
-Upload csv to generate network graph
+Upload csv to generate network graph<br>
 Provide users the ability to custom-specify what format of data they want vizualised as a network graph
 
 
