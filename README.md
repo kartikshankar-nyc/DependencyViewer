@@ -3,7 +3,7 @@ However, I envisage this to be used for any general purpose visualization, event
 For now, all code (html/js/css) is in one file. I will clean it up later on. If anyone wants to enhance or clean this up further, feel free <br>
 
 Note - this is a very trivial naive solution. Feel free to enhance/extend as required. <br>
-DEMO - https://kartikshankar-nyc.github.io/DependencyViewer/<br>
+DEMO - https://kartikshankar-nyc.github.io/dependency-vizualizer/<br>
 
 Usage - see below: Add Systems and Dependencies. and click on Generate Graph.<br>
 
